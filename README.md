@@ -20,6 +20,7 @@ Hi there! I'm **PieNaa**, a curious explorer who's learning to bake websites, co
 - 🐍 Python
 - 💻 C/C++
 - 🌐 HTML, CSS, JavaScript
+- 🐧 Linux & the terminal  
 - 🪄 Algorithms & Problem Solving
 
 ---
