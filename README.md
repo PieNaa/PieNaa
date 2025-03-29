@@ -6,11 +6,13 @@ Hi there! I'm **PieNaa**, a curious explorer who's learning to bake websites, co
 
 ## 🧁 On the Menu
 
-| Dish               | Description                                      |
-|--------------------|--------------------------------------------------|
-| [`python-playground`](https://github.com/PieNaa/python-playground) | Mixing loops, functions, and sweet logic 🍯 |
-| [`cpp-playground`](https://github.com/PieNaa/cpp-playground)       | Cooking with pointers and memory 🧂         |
-| [`html-css-js-playground`](https://github.com/PieNaa/html-css-js-playground-playground)       | Designing delightful UIs with sprinkles ✨   |
+| Dish                                                   | Description                                         |
+|--------------------------------------------------------|-----------------------------------------------------|
+| [`python-playground`](https://github.com/PieNaa/python-playground)         | Mixing loops, functions, and sweet logic 🍯         |
+| [`cpp-playground`](https://github.com/PieNaa/cpp-playground)               | Cooking with pointers and memory 🧂                 |
+| [`html-css-js-playground`](https://github.com/PieNaa/html-css-js-playground) | Designing delightful UIs with sprinkles ✨          |
+| [`linux-playground`](https://github.com/PieNaa/linux-playground)           | Exploring the terminal and Linux layers 🐧🔧         |
+
 
 ---
 
